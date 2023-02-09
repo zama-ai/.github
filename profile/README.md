@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.zama.ai">
-    <img src="https://user-images.githubusercontent.com/5758427/217554866-dae2a89e-5a9e-43b8-a528-d74b4feb5892.png"  width="100%" alt="Zama logo">
+    <img src="https://user-images.githubusercontent.com/5758427/217850589-ac5280dc-dfba-4292-88b2-c5ea99a9b570.png"  width="100%" alt="Zama logo">
   </a>
 </p>
 <h3 align="center">Let's build applications with Homomorphic Encryption</h3>
