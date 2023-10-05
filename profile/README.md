@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">Open source cryptographic tools that make protecting privacy easy with Fully Homomorphic Encryption (FHE).</p>
-<p align="center"><b>Need inspiration?</b> Check out some ⭐️ <a href="https://github.com/zama-ai/awesome-zama">awesome FHE resources<a></a>, papers, demos, and use cases created by the team at Zama.</p>
+<p align="center"><b>Need inspiration?</b> Check out the ⭐️ <a href="https://github.com/zama-ai/awesome-zama">awesome FHE resources Github repository<a></a>: papers, demos, and use cases created by the team at Zama.</p>
 
 
 <p align="center">
